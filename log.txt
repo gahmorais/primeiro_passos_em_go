@@ -1,0 +1,39 @@
+https://www.alura.com.br- online: true
+https://www.backupautomacao.com.br- online: true
+https://www.caelum.com.br- online: true
+https://www.youtube.com- online: true
+http://firebase.google.com- online: true
+https://www.alura.com.br- online: true
+https://www.backupautomacao.com.br- online: true
+https://www.caelum.com.br- online: true
+https://www.youtube.com- online: true
+http://firebase.google.com- online: true
+https://www.alura.com.br- online: true
+https://www.backupautomacao.com.br- online: true
+https://www.caelum.com.br- online: true
+https://www.youtube.com- online: true
+30/12/2023 18:40:20 - https://www.alura.com.br - online: true
+30/12/2023 18:40:21 - https://www.backupautomacao.com.br - online: true
+30/12/2023 18:40:23 - https://www.caelum.com.br - online: true
+30/12/2023 18:40:23 - https://www.youtube.com - online: true
+30/12/2023 18:40:24 - http://firebase.google.com - online: true
+30/12/2023 18:40:29 - https://www.alura.com.br - online: true
+30/12/2023 18:40:29 - https://www.backupautomacao.com.br - online: true
+30/12/2023 18:40:30 - https://www.caelum.com.br - online: true
+30/12/2023 18:40:31 - https://www.youtube.com - online: true
+30/12/2023 18:40:31 - http://firebase.google.com - online: true
+30/12/2023 18:40:36 - https://www.alura.com.br - online: true
+30/12/2023 18:40:37 - https://www.backupautomacao.com.br - online: true
+30/12/2023 18:40:38 - https://www.caelum.com.br - online: true
+30/12/2023 18:40:38 - https://www.youtube.com - online: true
+30/12/2023 18:40:39 - http://firebase.google.com - online: true
+30/12/2023 18:40:44 - https://www.alura.com.br - online: true
+30/12/2023 18:40:45 - https://www.backupautomacao.com.br - online: true
+30/12/2023 18:40:46 - https://www.caelum.com.br - online: true
+30/12/2023 18:40:46 - https://www.youtube.com - online: true
+30/12/2023 18:40:47 - http://firebase.google.com - online: true
+30/12/2023 18:40:52 - https://www.alura.com.br - online: true
+30/12/2023 18:40:52 - https://www.backupautomacao.com.br - online: true
+30/12/2023 18:40:53 - https://www.caelum.com.br - online: true
+30/12/2023 18:40:53 - https://www.youtube.com - online: true
+30/12/2023 18:40:54 - http://firebase.google.com - online: true
